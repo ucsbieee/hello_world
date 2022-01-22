@@ -1,0 +1,11 @@
+name: Run Tests
+on: [push]
+jobs:
+  Run-Shell-Scripts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+
+      - name: Run test
+        run: bash test.sh
