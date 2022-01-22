@@ -3,4 +3,4 @@
 
 Welcome to the website!
 
-<https://github.com/E4tHam/hello_world>
+<https://github.com/ucsbieee/hello_world>
